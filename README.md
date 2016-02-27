@@ -13,3 +13,5 @@ POL DO
 ##OTRA VAINA
 
 Manito
+
+##CopyRay
